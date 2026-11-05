@@ -1,4 +1,4 @@
-# AI: Useful, but Check Its Work
+# AI is convincing. Check it anyway.
 
 A short explainer on artificial intelligence: what it is, how it helps, how it can go wrong, and what might come next.
 
@@ -8,7 +8,7 @@ A short explainer on artificial intelligence: what it is, how it helps, how it c
 - `index.html` - the page
 - `styles.css` - styles
 - `script.js` - highlights the current section in the menu (optional)
-- `assets/` - the diagram (`ai-learning.svg`)
+- `assets/` - two diagrams (`ai-learning.svg`, `verify-loop.svg`)
 
 ## AI-use acknowledgement
 I acknowledge the use of Claude (https://claude.ai) to build the website code, suggest the structure, find source links, check my grammar and draft the section on power demand and outages. I wrote the rest of the content, checked the case-study facts against the sources, and tested the site. The final work is my responsibility.
