@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" role="img" aria-labelledby="t d">
+  <title id="t">Check before you trust</title>
+  <desc id="d">Three steps: AI gives an answer, you check it against sources, then you use it.</desc>
+  <rect width="720" height="150" fill="#FFFFFF"/>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#12203A" text-anchor="middle">
+    <rect x="20" y="30" width="190" height="90" rx="10" fill="#FFE6BF" stroke="#12203A" stroke-width="2"/>
+    <text x="115" y="70" font-size="19" font-weight="700">AI gives</text>
+    <text x="115" y="96" font-size="19" font-weight="700">an answer</text>
+    <rect x="265" y="30" width="190" height="90" rx="10" fill="#CDEBD8" stroke="#12203A" stroke-width="2"/>
+    <text x="360" y="70" font-size="19" font-weight="700">You check</text>
+    <text x="360" y="96" font-size="19" font-weight="700">the sources</text>
+    <rect x="510" y="30" width="190" height="90" rx="10" fill="#DDEBF7" stroke="#12203A" stroke-width="2"/>
+    <text x="605" y="70" font-size="19" font-weight="700">Then you</text>
+    <text x="605" y="96" font-size="19" font-weight="700">use it</text>
+    <path d="M214 75 H258 M246 65 L258 75 L246 85" fill="none" stroke="#12203A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M459 75 H503 M491 65 L503 75 L491 85" fill="none" stroke="#12203A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
