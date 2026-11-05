@@ -59,3 +59,6 @@ figcaption{margin-top:8px;font-size:.9rem;color:var(--muted);}
 .plain li{margin-bottom:12px;}
 .site-footer{padding:16px 0 48px;color:var(--muted);font-size:.95rem;}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto;}}
+.bar .wrap{max-width:70rem;}
+@media (min-width:900px){.bar ul{justify-content:center;}}
+#society{border-left-color:#2A9D8F;}
